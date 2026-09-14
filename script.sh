@@ -12,4 +12,4 @@ echo "Hostname:"
 hostname
 echo "================================="
 
-echo "Version 5
+echo "Version 5"
