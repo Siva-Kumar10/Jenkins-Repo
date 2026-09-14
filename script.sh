@@ -8,6 +8,8 @@ echo "================================="
 echo "Build triggered automatically from Git Hub!"
 echo "Current date and time:"
 date
-echo "Ho:"
+echo "Hostname:"
 hostname
 echo "================================="
+
+echo "Version 5
